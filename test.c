@@ -4,6 +4,8 @@
 #include <string.h>
 #include <stdlib.h>
 
+// modify by bh
+
 typedef struct
 {
     float** in;
