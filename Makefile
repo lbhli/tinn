@@ -1,5 +1,5 @@
 # Makefile with support for Windows (mingw32) and NIX (clang / gcc)
-
+# Modify by BH
 CC = gcc
 
 NAME = tinn
